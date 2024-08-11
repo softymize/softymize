@@ -32,7 +32,7 @@ Ready to dive in? Here’s where to start:
 We love hearing from you! Connect with us and stay updated:
 
 - **YouTube**: [Softymize Channel](https://www.youtube.com/@Softymize)
-- **Instagram**: [@Softymize](https://instagram.com/@softymize)
+- **Instagram**: [@Softymize](https://instagram.com/softymize)
 - **Telegram**: [Softymize](https://t.me/softymize)
 
 ## 📝 Contributing
